@@ -1,4 +1,4 @@
-# BCB/EEOB 546X, Computational Skills for Biological Data, Spring 2021 
+# BCB/EEOB 546X, Computational Skills for Biological Data<br> Spring 2021 
 ### Wednesday/Friday, 1:10-2:30p.m., Virtual
 
 ## Course Website

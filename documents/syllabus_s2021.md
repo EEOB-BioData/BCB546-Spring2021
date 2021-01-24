@@ -39,6 +39,10 @@ A detailed schedule the course can be found here:
 
 [https://docs.google.com/spreadsheets/d/1tTXO1SLPC1Rva90x9e8FhzVk9-uBWvca9YQsC0Zf1V4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1tTXO1SLPC1Rva90x9e8FhzVk9-uBWvca9YQsC0Zf1V4/edit?usp=sharing)
 
+Additionally, we will provide links to slides and other information on the course website schedule page:
+
+[https://eeob-biodata.github.io/EEOB-BCB-546/schedule.html](https://eeob-biodata.github.io/EEOB-BCB-546/schedule.html)
+
 ## Textbook
 
 Buffalo, V. ​Bioinformatics Data Skills​. Sebastopol, CA: O’Reilly Media, Inc., 2015. Print and eBook.
@@ -96,6 +100,10 @@ Software requirements for various portions of the course will be communicated th
 | 3. Data Management Plan | 15% |
 | 4. Python | 15% |
 | 5. Group Project & Presentation | 40% |
+
+Detailed descriptions of the course assignements will be made available via the course website: 
+
+[https://eeob-biodata.github.io/EEOB-BCB-546/assignments.html](https://eeob-biodata.github.io/EEOB-BCB-546/assignments.html)
 
 Late work and plagiarism/other forms of academic misconduct will result in a zero grade for the relevant assignment. Students suspected of academic misconduct will be referred to the Dean of Students Office. For information on ISU’s Standards of Academic Integrity, please see the following website:
 

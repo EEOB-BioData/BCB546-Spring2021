@@ -32,10 +32,10 @@ Now you have access to all of the files currently in the repository.
 
 ## Pulling Changes
 
-This repository will be updated frequently throughout the semester. Thus, to have the most up-to-date files, you should pull the changes before you start any activity. To do this, simply use the `git pull` command to pull the changes from the master branch on the remote host.
+This repository will be updated frequently throughout the semester. Thus, to have the most up-to-date files, you should pull the changes before you start any activity. To do this, simply use the `git pull` command to pull the changes from the `main` branch on the remote host.
 
 ```
-git pull origin master
+git pull origin main
 ```
 
 Now all your files should be up-to-date. If you happened to have modified a file that is already in the repository (not common), then you may be unable to pull the changes. To find out which file you modified, check the status of your repository:

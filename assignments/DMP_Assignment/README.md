@@ -26,7 +26,7 @@ Feel free to use these guidelines for writing your DMP. Alternatively, you can u
 
 ### Format Requirements
 
-We are asking that you follow the [NSF proposal preparation guidelines](https://github.com/EEOB-BioData/BCB546-Spring2021/blob/master/assignments/DMP_Assignment/NSF-DMP.md) for this assignment. Thus, the DMP must conform to the following requirements:
+We are asking that you follow the [NSF proposal preparation guidelines](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp) for this assignment. Thus, the DMP must conform to the following requirements:
 
 * Use one of the following typefaces identified below:
 	* Arial, Helvetica, Courier New, or Palatino Linotype at a font size of 10 points or larger;

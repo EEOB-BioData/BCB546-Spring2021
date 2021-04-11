@@ -1,7 +1,7 @@
 seq = 'GACTTAATGGGCAATAGGCAAGCACTTGAAAAAGATGCCAACGACATGAAAACACAAGACAA'
 count = 0
 for base in seq:
-    if base is 'G':
+    if base == 'G':
         count += 1
 print(count)
 

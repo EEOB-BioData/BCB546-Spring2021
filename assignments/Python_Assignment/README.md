@@ -31,6 +31,6 @@ Additionally, Dr. X has written some comments and pseudocode that outline other 
     * Remember to document everything very clearly, following documentation guidelines we covered in class. 
 * Commit and push your completed Python analyses in the Jupyter notebook to your repository
     * Be sure that your GitHub repository is self contained--i.e., if someone cloned it they could run your whole Jupyter notebook without any trouble.
-* Submit the URL to your git repository to Python Assignment on Canvas by the end of the day on April 30, 2021.
+* Submit the URL to your git repository to Python Assignment on Canvas by the end of the day on May 5, 2021.
 
 
